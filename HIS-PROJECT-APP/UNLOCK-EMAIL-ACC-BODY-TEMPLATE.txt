@@ -1,0 +1,17 @@
+Hi  {FNAME}, {LNAME} :
+<br/>
+
+Welcome to  HIS, Your Account is almost created.Plese use below details to unlock your account.<br/>
+<br/>
+
+Your Role : {ROLE}<br>
+Temporary Password : {TEMP-PWD}<br/>
+<br/>
+
+<a href='http://localhost:2525/login?email={EMAIL}&OTP={TEMP-PWD}'>
+Click Here To Unlock Your Account</a> <br/>
+<br/>
+
+Thanks & Regards,<br/>
+HIS Team.<br/>
+<h4>New Jersy State  GOVT Project</h4>
