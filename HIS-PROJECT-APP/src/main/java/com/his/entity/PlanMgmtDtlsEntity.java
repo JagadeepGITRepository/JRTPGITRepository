@@ -64,5 +64,13 @@ public class PlanMgmtDtlsEntity {
      
      @Column(name="UPDATED_BY")
 	private String   updatedBy;
+     
+     
+     @Column(name="DELETE_STATUS")
+     private String   deleteStatus;
+     
+     
+     @Column(name="ACTIVE_STATUS")
+     private String   activeStatus;
 
 }//end of class
