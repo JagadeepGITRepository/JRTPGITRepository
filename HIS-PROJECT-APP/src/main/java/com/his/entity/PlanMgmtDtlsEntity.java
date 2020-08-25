@@ -38,11 +38,11 @@ public class PlanMgmtDtlsEntity {
 	
 	
 	@Column(name="START_DATE")
-	private Date      startDate;
+	private String      startDate;
 	
 	
 	@Column(name="END_DATE")
-	private Date      endDate;
+	private String    endDate;
 	
 	
 	@CreationTimestamp

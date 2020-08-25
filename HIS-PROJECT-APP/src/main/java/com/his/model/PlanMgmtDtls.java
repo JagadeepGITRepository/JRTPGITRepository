@@ -10,8 +10,8 @@ public class PlanMgmtDtls {
 	private  Integer  planId;
 	private  String    planName;
 	private  String    planDesc;
-	private  Date      startDate;
-	private  Date      endDate;
+	private  String      startDate;
+	private  String      endDate;
 	private  String    createdBy;
 	private  String    updatedBy;
 	private  Date      createdDate;
